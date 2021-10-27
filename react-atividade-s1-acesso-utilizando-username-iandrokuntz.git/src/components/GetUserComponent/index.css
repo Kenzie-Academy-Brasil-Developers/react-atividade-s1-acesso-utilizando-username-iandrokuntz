@@ -1,0 +1,24 @@
+.FormPage{
+    display: flex;
+    justify-content: center;
+}
+
+form{
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    align-items: center;
+}
+
+input{
+    margin: 30px;
+    width: 200px;
+    height: 20px;
+}
+
+button{
+    font-weight: bold;
+    width: 150px;
+    height: 30px;
+}
